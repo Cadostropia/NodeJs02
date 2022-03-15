@@ -1,0 +1,19 @@
+{
+  "name": "nodejs02",
+  "version": "1.0.0",
+  "description": "Testing my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cadostropia/NodeJs02.git"
+  },
+  "author": "Cadostropia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cadostropia/NodeJs02/issues"
+  },
+  "homepage": "https://github.com/Cadostropia/NodeJs02#readme"
+}
